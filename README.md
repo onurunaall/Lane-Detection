@@ -1,5 +1,5 @@
 # Lane-Detection
 
-![](result1.gif)
+![](https://github.com/onurunaall/Lane-Detection.git/result1.gif)
 
 
